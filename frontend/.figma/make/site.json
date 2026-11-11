@@ -1,0 +1,10 @@
+{
+  "description": "Manage rental properties, applications, leases, payments, and maintenance in one place for landlords, tenants, and property administrators.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
